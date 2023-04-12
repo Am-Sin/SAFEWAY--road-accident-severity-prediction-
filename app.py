@@ -18,7 +18,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.set_page_config(page_title="SAFEWAY",
                 page_icon="🚧", layout="wide")
-st.image("car accident.jpg")
 
 #creating option list for dropdown menu
 options_day = ['Sunday', "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
