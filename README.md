@@ -16,10 +16,17 @@ Web App screenshots:
 ![ss2](https://user-images.githubusercontent.com/89353646/231855271-a7da05c2-f63b-41d9-b9fe-8fec001a5bfe.png)
 
 Steps:
+
 1.Exploratory Data Analysis
+
 2.Date Preparation
+
 3.Data Preprocessing
+
 4.Data Visualization
+
 5.Baseline Modelling
+
 6.F1 score evaluation
+
 7.Deployment using streamlit
